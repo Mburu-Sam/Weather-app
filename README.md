@@ -47,7 +47,7 @@ weather-app/
 
 
 ## 🌍 Live Demo
-Try it here: [Weather App Live Demo](https://mburu-sam.github.io/weather-app/)
+Try it here: [Weather App Live Demo](https://mysimplerweatherapp.netlify.app /)
 
 ---
 
